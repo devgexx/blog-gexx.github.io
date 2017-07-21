@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>return null</title>
+  <subtitle>everything is impossible</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-07-21T07:46:10.814Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>g3xx</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Remos est eversae</title>
+    <link href="http://yoursite.com/2017/07/Remos-est-eversae/"/>
+    <id>http://yoursite.com/2017/07/Remos-est-eversae/</id>
+    <published>2017-07-21T07:45:48.000Z</published>
+    <updated>2017-07-21T07:46:10.814Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Remos-est-eversae&quot;&gt;&lt;a href=&quot;#Remos-est-eversae&quot; class=&quot;headerlink&quot; title=&quot;Remos est eversae&quot;&gt;&lt;/a&gt;Remos est eversae&lt;/h1&gt;&lt;h2 id=&quot;Vides
+    
+    </summary>
+    
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lorem aku ganteng</title>
+    <link href="http://yoursite.com/2017/07/lorem-aku-ganteng/"/>
+    <id>http://yoursite.com/2017/07/lorem-aku-ganteng/</id>
+    <published>2017-07-21T07:44:40.000Z</published>
+    <updated>2017-07-21T07:45:24.236Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Concorditer-plumae-saliente-Andraemon-famae-epotus-aurum&quot;&gt;&lt;a href=&quot;#Concorditer-plumae-saliente-Andraemon-famae-epotus-aurum&quot; class=
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tag all in post</title>
+    <link href="http://yoursite.com/2017/07/tag-all-in-post/"/>
+    <id>http://yoursite.com/2017/07/tag-all-in-post/</id>
+    <published>2017-07-20T12:39:41.000Z</published>
+    <updated>2017-07-20T15:01:49.494Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This post is used for testing tag plugins. See &lt;a href=&quot;https://hexo.io/docs/tag-plugins.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;docs&lt;/a&gt; fo
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>element all page</title>
+    <link href="http://yoursite.com/2017/07/element-all-page/"/>
+    <id>http://yoursite.com/2017/07/element-all-page/</id>
+    <published>2017-07-20T10:45:07.000Z</published>
+    <updated>2017-07-20T10:46:26.892Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The purpose of this post is to make sure all HTML elements can display properly.&lt;/p&gt;
+&lt;h1 id=&quot;Heading-1&quot;&gt;&lt;a href=&quot;#Heading-1&quot; class=&quot;heade
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tamen quo lacrimisque</title>
+    <link href="http://yoursite.com/2017/07/Tamen-quo-lacrimisque/"/>
+    <id>http://yoursite.com/2017/07/Tamen-quo-lacrimisque/</id>
+    <published>2017-07-18T08:49:05.000Z</published>
+    <updated>2017-07-18T11:40:07.775Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Tamen-quo-lacrimisque&quot;&gt;&lt;a href=&quot;#Tamen-quo-lacrimisque&quot; class=&quot;headerlink&quot; title=&quot;Tamen quo lacrimisque&quot;&gt;&lt;/a&gt;Tamen quo lacrimisque&lt;/h1&gt;&lt;h2 id=&quot;Exsul-salibus&quot;&gt;&lt;a href=&quot;#Exsul-salibus&quot; class=&quot;headerlink&quot; title=&quot;Exsul salibus&quot;&gt;&lt;/a&gt;Exsul salibus&lt;/h2&gt;&lt;p&gt;Lorem markdownum bracchia nulla; pumice inque non sine sepulcris neque dicere:&lt;br&gt;ait canat! Atra Cinyphii inclamare inpositum &lt;strong&gt;mirum frondescere&lt;/strong&gt; arma, grandia&lt;br&gt;si ritibus crinibus templi sine medicamine tacitas angues in? Panaque sumptis&lt;br&gt;nativo ille praeter odioque: que toto tu ales precantia &lt;strong&gt;superentur erit&lt;/strong&gt;&lt;br&gt;inobrutus ergo bello. Igneus finxit. Illi niveis figuram?&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="tutorial" scheme="http://yoursite.com/tags/tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/07/hello-world/"/>
+    <id>http://yoursite.com/2017/07/hello-world/</id>
+    <published>2017-07-18T08:43:12.000Z</published>
+    <updated>2017-07-19T12:04:23.109Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;
+    
+    </summary>
+    
+    
+      <category term="tutorial" scheme="http://yoursite.com/tags/tutorial/"/>
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown cheatsheet.</title>
+    <link href="http://yoursite.com/2017/07/markdown-cheatsheet/"/>
+    <id>http://yoursite.com/2017/07/markdown-cheatsheet/</id>
+    <published>2017-07-18T08:43:12.000Z</published>
+    <updated>2017-07-18T11:42:40.030Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Typography&quot;&gt;&lt;a href=&quot;#Typography&quot; class=&quot;headerlink&quot; title=&quot;Typography&quot;&gt;&lt;/a&gt;Typography&lt;/h1&gt;&lt;h2 id=&quot;Headings&quot;&gt;&lt;a href=&quot;#Headings&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h2&gt;&lt;p&gt;Headings from &lt;code&gt;h1&lt;/code&gt; through &lt;code&gt;h6&lt;/code&gt; are constructed with a &lt;code&gt;#&lt;/code&gt; for each level:&lt;/p&gt;
+&lt;figure class=&quot;highlight markdown&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;# h1 Heading&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;## h2 Heading&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;### h3 Heading&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;#### h4 Heading&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;##### h5 Heading&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;###### h6 Heading&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="tutorial" scheme="http://yoursite.com/tags/tutorial/"/>
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>(GitHub-Flavored) Markdown Editor</title>
+    <link href="http://yoursite.com/2017/07/GitHub-Flavored-Markdown-Editor/"/>
+    <id>http://yoursite.com/2017/07/GitHub-Flavored-Markdown-Editor/</id>
+    <published>2017-07-18T08:37:03.000Z</published>
+    <updated>2017-07-18T11:42:46.084Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;GitHub-Flavored-Markdown-Editor&quot;&gt;&lt;a href=&quot;#GitHub-Flavored-Markdown-Editor&quot; class=&quot;headerlink&quot; title=&quot;(GitHub-Flavored) Markdown Editor&quot;&gt;&lt;/a&gt;(GitHub-Flavored) Markdown Editor&lt;/h1&gt;&lt;p&gt;Basic useful feature list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ctrl+S / Cmd+S to save the file&lt;/li&gt;
+&lt;li&gt;Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML&lt;/li&gt;
+&lt;li&gt;Drag and drop a file into here to load it&lt;/li&gt;
+&lt;li&gt;File contents are saved in the URL so you can share files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m no good at writing sample / filler text, so go write something yourself.&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>stackedit.io</title>
+    <link href="http://yoursite.com/2017/07/stackedit-io/"/>
+    <id>http://yoursite.com/2017/07/stackedit-io/</id>
+    <published>2017-07-18T08:31:35.000Z</published>
+    <updated>2017-07-19T17:16:29.263Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Welcome-to-StackEdit&quot;&gt;&lt;a href=&quot;#Welcome-to-StackEdit&quot; class=&quot;headerlink&quot; title=&quot;Welcome to StackEdit!&quot;&gt;&lt;/a&gt;Welcome to StackEdit!&lt;/h1&gt;&lt;p&gt;Hey! I’m your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;[^stackedit]. Don’t delete me, I’m very helpful! I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class=&quot;icon-cog&quot;&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Documents&quot;&gt;&lt;a href=&quot;#Documents&quot; class=&quot;headerlink&quot; title=&quot;Documents&quot;&gt;&lt;/a&gt;Documents&lt;/h2&gt;&lt;figure class=&quot;highlight markdown&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;![&lt;span class=&quot;string&quot;&gt;Alt text&lt;/span&gt;](&lt;span class=&quot;link&quot;&gt;http://octodex.github.com/images/stormtroopocat.jpg&lt;/span&gt;)&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="tutorial" scheme="http://yoursite.com/tags/tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My Fist Post with hexo</title>
+    <link href="http://yoursite.com/2017/07/My-Fist-Post-with-hexo/"/>
+    <id>http://yoursite.com/2017/07/My-Fist-Post-with-hexo/</id>
+    <published>2017-07-18T08:24:00.000Z</published>
+    <updated>2017-07-19T10:14:29.239Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This my first post using &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
+&lt;h2 id=&quot;First-title&quot;&gt;&lt;a href=&quot;#First-ti
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
